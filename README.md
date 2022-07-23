@@ -13,6 +13,9 @@ Hello, I'm void, junior back-end developer in Turkey. I like to learn new progra
 <a href="https://www.github.com/theavoid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/theavoid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://komarev.com/ghpvc/?username=theavoid)
+
+
 ### Skills
 
 <p align="left">
