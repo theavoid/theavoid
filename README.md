@@ -1,7 +1,7 @@
 Hi 👋 My name is Void
 =========================
 
-Junior Back-end Developer
+Jr. Fullstack Developer
 -------------------------
 
 Hello, I'm void, junior back-end developer in Turkey. I like to learn new programming languages/tools.
