@@ -4,7 +4,7 @@ Hi 👋 My name is Void
 Jr. Fullstack Developer
 -------------------------
 
-Hello, I'm void, junior back-end developer in Turkey. I like to learn new programming languages/tools.
+Hello, I'm void, junior fullstack web developer in Turkey. I like to learn new programming languages/tools.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [hello@theavoid.me](mailto:hello@theavoid.me)
