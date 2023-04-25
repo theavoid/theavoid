@@ -7,7 +7,7 @@ Jr. Fullstack Developer
 Hello, I'm void, junior fullstack web developer in Turkey. I like to learn new programming languages/tools.
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [info@fodex.tech](mailto:info@fodex.tech)
+* ✉️  You can contact me at [admin@raxen.org](mailto:admin@raxen.org)
 * 🧠  I'm learning ReactJS
 
 <a href="https://www.github.com/theavoid" target="_blank" rel="noreferrer"><img
