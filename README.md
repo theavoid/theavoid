@@ -8,7 +8,7 @@ Hello, I'm void, junior fullstack web developer in Turkey. I like to learn new p
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [admin@raxen.org](mailto:admin@raxen.org)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning C++
 
 <a href="https://www.github.com/theavoid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/theavoid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
